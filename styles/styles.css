@@ -177,11 +177,12 @@ margin-top: 10px;
 /* sidebar */
 .sidebar{
     background-color: #1E2939;
-    padding-top: 40px;
+    /* padding-top: 40px; */
     width: 370px;
 }
 .PHOTO{
-    width: 370px;
+    width: 260px;
+    height: 370px;
     margin-bottom: 50px;
 }
 .sidebar-title{
