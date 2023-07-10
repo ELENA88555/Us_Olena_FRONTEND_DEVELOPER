@@ -15,14 +15,16 @@ body {
 .main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
+   max-width: 2480px;
+   height: auto ;
     margin: 0 auto;
+
 }
 
 .main-content {
 background-color: white;
 box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-padding: 80px 90px;
+padding: 40px 60px;
 }
 
 
@@ -63,7 +65,7 @@ padding: 80px 90px;
 .title {
  
     font-weight: 700;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 27px;
     color:  #131313;
     margin-bottom: 10px;
@@ -172,12 +174,12 @@ margin-top: 10px;
 /* sidebar */
 .sidebar{
     background-color: #1E2939;
-    width: 370px;
+    width: auto;
 }
 .PHOTO{
-    width: 260px;
-    height: 370px;
-    margin-bottom: 50px;
+    width: 230px;
+    height: 340px;
+    /* margin-bottom: 50px; */
 }
 .sidebar-title{
     color: white;
@@ -188,11 +190,11 @@ margin-top: 10px;
 
 }
 .contacts{
-   margin-bottom: 50px;
+   margin-bottom: 30px;
     }
 
 .main-contacts{
-    padding: 40px;
+    padding: 20px;
 }
 
 /* .Tech-skills{
@@ -200,7 +202,7 @@ margin-top: 10px;
 } */
 .Soft-Skills {
     /* margin-left: 40px; */
-    margin-top: 44px;
+    margin-top: 30px;
 }
 
 .contact-links-tel{
