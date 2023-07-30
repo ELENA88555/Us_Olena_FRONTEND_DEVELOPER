@@ -20,7 +20,7 @@ ul {
   margin: 0;
   padding: 0;
 }
-/* main */
+
 .main {
   display: flex;
   flex-direction: row-reverse;
@@ -32,7 +32,6 @@ ul {
 
 .main-content {
   background-color: white;
-  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
   padding: 120px;
   padding-top: 80px;
   padding-bottom: 20px;
