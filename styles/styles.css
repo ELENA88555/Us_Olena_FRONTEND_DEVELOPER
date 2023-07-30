@@ -3,8 +3,9 @@ body {
     /* font-family: 'Montserrat', sans-serif; */
     font-family: 'Montserrat';
     font-style: normal;
-    background-color: rgb(159, 156, 156);
     font-size: 14px;
+    margin: 0;
+    padding: 0;
 }
 
  h1, h2, h4, h3, p, li, a,p, span, ul {
@@ -18,12 +19,13 @@ body {
    max-width: 2480px;
    height: auto ;
     margin: 0 auto;
+    padding: 10px;
 
 }
 
 .main-content {
 background-color: white;
-box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+/* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 padding: 40px 60px;
 }
 
