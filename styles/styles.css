@@ -32,32 +32,33 @@ ul {
 
 .main-content {
   background-color: white;
-  padding: 50px;
+  padding-left: 30px;
+  padding-right: 10px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .about-user {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .about-position {
   font-weight: 700;
   line-height: 17px;
   color: #131313;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .about-name {
   font-weight: 700;
   font-size: 45px;
   line-height: 55px;
   color: #131313;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .about-discr {
-  font-size: 16px;
+  font-size: 14px;
 
   font-weight: 400;
-  line-height: 24px;
+  line-height: 20px;
   color: #131313;
 }
 
@@ -68,9 +69,9 @@ ul {
 .title {
   font-weight: 700;
   font-size: 18px;
-  line-height: 27px;
+  line-height: 24px;
   color: #131313;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .Projects-list {
@@ -87,7 +88,7 @@ ul {
 .Project,
 .Project-link {
   font-weight: 400;
-  line-height: 24px;
+  line-height: 20px;
   color: #595959;
 }
 
@@ -101,11 +102,11 @@ ul {
 }
 
 .workstyle {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .work-position {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
@@ -122,20 +123,20 @@ ul {
   font-size: 12px;
   line-height: 15px;
   color: #131313;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .work-list {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   padding: 0;
   margin-left: 15px;
 }
 
 .work-list-item {
-  margin-bottom: 10px;
-  font-size: 16px;
+  margin-bottom: 6px;
+  font-size: 14px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 20px;
   color: #131313;
 }
 
@@ -150,14 +151,14 @@ ul {
   font-size: 12px;
   line-height: 15px;
    color: #131313; 
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .education-status {
-  font-size: 16px;
+  font-size: 14px;
   color: #131313;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 20px;
   margin-bottom: 5px;
 }
 .education-list-item {
@@ -181,7 +182,7 @@ ul {
 .sidebar-title {
   color: white;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 27px;
   margin-bottom: 10px;
 }
@@ -191,7 +192,7 @@ ul {
 
 .main-contacts {
   padding: 20px;
-  padding-top: 30px ;
+  padding-top: 20px ;
 }
 
 /* .Tech-skills{
@@ -263,5 +264,5 @@ ul {
 }
 
 .summary {
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
