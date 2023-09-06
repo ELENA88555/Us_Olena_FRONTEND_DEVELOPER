@@ -32,26 +32,26 @@ ul {
 
 .main-content {
   background-color: white;
-  padding: 120px;
-  padding-top: 80px;
-  padding-bottom: 20px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .about-user {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .about-position {
   font-weight: 700;
   line-height: 17px;
   color: #131313;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .about-name {
   font-weight: 700;
   font-size: 45px;
   line-height: 55px;
   color: #131313;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 .about-discr {
   font-size: 16px;
@@ -62,7 +62,7 @@ ul {
 }
 
 .projects {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .title {
@@ -101,7 +101,7 @@ ul {
 }
 
 .workstyle {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .work-position {
@@ -126,7 +126,7 @@ ul {
 }
 
 .work-list {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   padding: 0;
   margin-left: 15px;
 }
@@ -183,15 +183,15 @@ ul {
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .contacts {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .main-contacts {
   padding: 20px;
-  padding-top: 50px ;
+  padding-top: 30px ;
 }
 
 /* .Tech-skills{
@@ -199,7 +199,7 @@ ul {
 } */
 .Soft-Skills {
   /* margin-left: 40px; */
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .contact-links-tel {
@@ -245,7 +245,7 @@ ul {
   font-weight: 400;
 
   line-height: 24px;
-  margin-top: 8px;
+  margin-top: 5px;
 }
 .tech-skills-item {
   color: #494544;
@@ -263,5 +263,5 @@ ul {
 }
 
 .summary {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
